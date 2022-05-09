@@ -11,7 +11,7 @@ let numericEl = document.getElementById("numeric");
 let specialCharactersEl = document.getElementById("special-characters");
 // Starting window alerts and prompts
     // number of Characters.
-window.alert("Hello, welcome to the Password Generator! Please click the 'Generate Password' button after answering the following questions to customize your password.");
+window.alert("Hello, welcome to the Password Generator! Please input the length of your password and check the checkboxes to customize your password!");
 
 
 // Get references to the #generate element
